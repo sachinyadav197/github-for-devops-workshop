@@ -1,0 +1,18 @@
+
+ ls
+ ls -l
+ rm testing.py
+git init
+  14 clear
+  15 git status
+  17 ls
+  18 clear
+  21 git add testing.py
+  22 git status
+  23 git rm --cached
+  26 git rm --cached testing.py
+  29 git add .
+  30 git status
+  31 git commit -m "hello yadav jiiiii"
+
+  45 git restore testing.py
