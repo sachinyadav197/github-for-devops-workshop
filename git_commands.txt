@@ -78,3 +78,5 @@ clear
 View command history:
 
 history
+
+somes changes in the commands
