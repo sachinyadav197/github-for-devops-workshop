@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 GIT COMMANDS
 1. Initialization
 Create a new Git repository:
+=======
+Git Commands
+1. Initialization
+Create a new Git repository:
+
+>>>>>>> 11f8999f4cc26be83ca800304e07a70b2e064a1a
 git init
 
 2. Configuration
@@ -76,4 +83,10 @@ clear
 
 View command history:
 
+<<<<<<< HEAD
 history
+=======
+history
+
+somes changes in the commands
+>>>>>>> 11f8999f4cc26be83ca800304e07a70b2e064a1a
